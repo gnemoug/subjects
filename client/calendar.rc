@@ -1,0 +1,8 @@
+style "backwindow"
+{
+  	bg_pixmap[NORMAL]="cal6.png"
+}
+widget "newwindow" style "backwindow"
+
+
+
